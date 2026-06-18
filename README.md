@@ -2,7 +2,13 @@
 
 Hobbyist developer from Russia. I build game engines, mods, and tools mostly for fun.
 
-My main language is **C#**, though I work with C++, Java, and others depending on the project.
+---
+
+## about me
+
+- Been writing **C#** since 2022 — my main language
+- Also work with **C++**, **HTML**, a bit of **CSS**, and others as needed
+- Currently building **VeneriX** — a custom game engine written in C++ with OpenGL
 
 ---
 
